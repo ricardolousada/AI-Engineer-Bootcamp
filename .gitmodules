@@ -1,0 +1,3 @@
+[submodule "NLP/NLP"]
+	path = NLP/NLP
+	url = https://github.com/ricardolousada/NLP.git
